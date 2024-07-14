@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/route-event-task/static/css/main.4739501f.css",
+    "main.js": "/route-event-task/static/js/main.afb40441.js",
+    "static/js/453.ed3810f9.chunk.js": "/route-event-task/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/route-event-task/index.html",
+    "main.4739501f.css.map": "/route-event-task/static/css/main.4739501f.css.map",
+    "main.afb40441.js.map": "/route-event-task/static/js/main.afb40441.js.map",
+    "453.ed3810f9.chunk.js.map": "/route-event-task/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4739501f.css",
+    "static/js/main.afb40441.js"
+  ]
+}
